@@ -1,0 +1,14 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ebd1d5;
+}
+#achievement {
+  background-color: #ebd1d5;
+}
+footer {
+  background-color: #ac6974;
+}
+
+section {
+  scroll-margin-top: 4rem;
+}
